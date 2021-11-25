@@ -1,0 +1,8 @@
+# PhpStorm
+.idea
+
+# Docker Compose
+.env
+wordpress
+backend
+!infra/docker/wordpress
